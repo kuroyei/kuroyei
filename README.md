@@ -18,9 +18,6 @@
 2. 香港
 3. 深圳
 
-![](img/profile_banner.jfif)
-*Taken in 南山, 深圳 on March 1, 2024*
-
 ## 💻 デバイス
 
 - HONOR MagicBook Art 14
@@ -34,6 +31,9 @@
 - [Instagram](https://www.instagram.com/kuroyei_san_desu)
 - [Zenn](https://zenn.dev/kuroyei)
 - [GitHub](https://github.com/kuroyei)
+
+![](img/profile_banner.jfif)
+*Taken in 南山, 深圳 on March 1, 2024*
 
 <!--
 **kuroyei/kuroyei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
